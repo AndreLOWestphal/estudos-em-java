@@ -4,7 +4,7 @@
 --------
 Dito isso iremos partir para nossos .java's da vida, temos códigos práticos com vários modeloes de estudo:
 
-Foquei o projeto em boa identação e boa prática revelando com isso a facilidade de se localizar no código propriamente dito e conseguir lê-lo e estuda-lo.
+Foquei o projeto em boa identação, camelCase e boa prática revelando com isso a facilidade de se localizar no código propriamente dito e conseguir lê-lo e estuda-lo.
 ----
 ## Mapa para localizar conteúdo de estudos:
 
