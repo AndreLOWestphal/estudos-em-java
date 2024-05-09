@@ -1,3 +1,4 @@
+package edu.basico;
 public class PrimeirosPassos {
 
     // na clase principal estamos dando valor ao atributos, variaveis, e chamando o metodo, função e imprimindo-o

@@ -1,3 +1,4 @@
+package edu.basico;
 public class BoletimEstudantil {
 
     // podemos identificar na main e metodo que se alterarmos para inteiros provavelmente o fulano estará de recuperação
