@@ -1,7 +1,7 @@
 package edu.basico;
 
 public class UsuarioTV {
-    
+   
     public static void main(String[] args) {
         
         SmartTV smartTV = new SmartTV();
