@@ -25,3 +25,7 @@ public class UsuarioTV {
     }
 
 }
+
+/*  A linha de comando a baixo gerará uma documentação para estudo e pesquisa.
+ *  javadoc -encoding UTF-8 -docencoding ISO-8859-1 -d ./docs src/edu/basico/*.java **MUITO IMPORTANTE**
+ */

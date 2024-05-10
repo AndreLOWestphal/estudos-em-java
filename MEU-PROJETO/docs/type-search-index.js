@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.basico","l":"BoletimEstudantil"},{"p":"edu.basico","l":"Boolean"},{"p":"edu.basico","l":"PrimeirosPassos"},{"p":"edu.basico","l":"SmartTV"},{"p":"edu.basico","l":"UsuarioTV"}];updateSearchResults();
