@@ -1,0 +1,55 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.basico.BoletimEstudantil",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "Boolean",
+            "request": "launch",
+            "mainClass": "edu.basico.Boolean",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "MeuFormulario",
+            "request": "launch",
+            "mainClass": "edu.basico.MeuFormulario",
+            "projectName": "MEU-PROJETO_da86eb18",
+            "args": [
+                "André",
+                "Oliveira",
+                "35",
+                "1.58"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "PrimeirosPassos",
+            "request": "launch",
+            "mainClass": "edu.basico.PrimeirosPassos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioTV",
+            "request": "launch",
+            "mainClass": "edu.basico.UsuarioTV",
+            "projectName": "MEU-PROJETO_da86eb18"
+        }
+    ]
+}
