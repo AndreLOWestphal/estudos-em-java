@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraMediaTurma",
+            "request": "launch",
+            "mainClass": "edu.basico.CalculadoraMediaTurma",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "IlustrandoPilha",
+            "request": "launch",
+            "mainClass": "edu.basico.IlustrandoPilha",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCep",
             "request": "launch",
             "mainClass": "edu.basico.FormatadorCep",
