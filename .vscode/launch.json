@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.basico.PlanoOperadora",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMdedia",
+            "request": "launch",
+            "mainClass": "edu.basico.SistemaMdedia",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.basico.ResultadoEscolar",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.basico.CaixaEletronico",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "NovoFormulario",
             "request": "launch",
             "mainClass": "edu.basico.NovoFormulario",
