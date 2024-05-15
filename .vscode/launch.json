@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "edu.basico.VerificadorNumeroConta",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "edu.basico.SimulacaoBancaria",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "ProcessoSeletivo",
             "request": "launch",
             "mainClass": "edu.basico.ProcessoSeletivo",
