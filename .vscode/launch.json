@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "edu.basico.ProcessoSeletivo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "SelecaoCandidato",
             "request": "launch",
             "mainClass": "edu.basico.SelecaoCandidato",
