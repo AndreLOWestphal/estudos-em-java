@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SomaFatorial",
+            "request": "launch",
+            "mainClass": "edu.basico.SomaFatorial",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "VerificadorNumeroConta",
             "request": "launch",
             "mainClass": "edu.basico.VerificadorNumeroConta",
