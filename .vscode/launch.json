@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "edu.escola.Escola",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "SomaFatorial",
             "request": "launch",
             "mainClass": "edu.basico.SomaFatorial",
