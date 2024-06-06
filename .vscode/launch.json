@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.basico.SistemaIbge",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.basico.SistemaCadastro",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "Escola",
             "request": "launch",
             "mainClass": "edu.escola.Escola",
