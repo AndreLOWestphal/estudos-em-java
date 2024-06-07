@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "edu.interfaceMultifuncional.estabelecimento.Fabrica",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "ComputadorPedro",
             "request": "launch",
             "mainClass": "edu.Menssegers.main.ComputadorPedro",
