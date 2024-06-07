@@ -1,4 +1,4 @@
-package edu.basico;
+package edu.cadastroibge;
 
 public class SistemaIbge {
     public static void main(String[] args) {

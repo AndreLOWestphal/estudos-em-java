@@ -1,4 +1,4 @@
-package edu.basico;
+package edu.escola01;
 
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,4 +1,4 @@
-package edu.basico;
+package edu.cadastroibge;
 
 public enum EstadoBrasileiro {
     SAO_PAULO ("SP", "São Paulo", 01),

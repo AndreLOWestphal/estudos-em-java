@@ -1,4 +1,4 @@
-package edu.basico;
+package edu.televisao;
 
 public class SmartTV {
     boolean ligada = false;

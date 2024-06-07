@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputadorPedro",
+            "request": "launch",
+            "mainClass": "edu.MSNMenseger.ComputadorPedro",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "edu.basico.automoveis.Autodromo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "edu.basico.Autodromo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "SistemaIbge",
             "request": "launch",
             "mainClass": "edu.basico.SistemaIbge",

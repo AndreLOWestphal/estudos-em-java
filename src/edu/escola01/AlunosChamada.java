@@ -1,4 +1,4 @@
-package edu.basico;
+package edu.escola01;
 
 public class AlunosChamada {
     public static void main(String[] args) {
