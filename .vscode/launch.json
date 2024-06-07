@@ -8,6 +8,20 @@
             "type": "java",
             "name": "ComputadorPedro",
             "request": "launch",
+            "mainClass": "edu.Menssegers.main.ComputadorPedro",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedro",
+            "request": "launch",
+            "mainClass": "edu.Menssegers.ComputadorPedro",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedro",
+            "request": "launch",
             "mainClass": "edu.MSNMenseger.ComputadorPedro",
             "projectName": "MEU-PROJETO_da86eb18"
         },
