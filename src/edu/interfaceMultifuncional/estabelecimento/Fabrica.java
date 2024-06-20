@@ -2,7 +2,7 @@ package edu.interfaceMultifuncional.estabelecimento;
 
 import edu.interfaceMultifuncional.equipamentos.copiadora.Copiadora;
 import edu.interfaceMultifuncional.equipamentos.digitalizadora.Digitalizadora;
-import edu.interfaceMultifuncional.equipamentos.impressora.Deskjet;
+//import edu.interfaceMultifuncional.equipamentos.impressora.Deskjet;
 import edu.interfaceMultifuncional.equipamentos.impressora.Impressora;
 import edu.interfaceMultifuncional.equipamentos.multifuncional.Multifuncional;
 
