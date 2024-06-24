@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "edu.banco.CarrinhoDeCompras",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "ListaTarefas",
             "request": "launch",
             "mainClass": "edu.listadetarefas.ListaTarefas",
