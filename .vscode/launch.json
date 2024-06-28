@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "edu.somaNumeros.SomaNumeros",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "CatalogoLivros",
             "request": "launch",
             "mainClass": "edu.pesquisa.CatalogoLivros",
