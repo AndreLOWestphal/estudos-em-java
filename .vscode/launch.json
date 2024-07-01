@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoNumeros",
+            "request": "launch",
+            "mainClass": "edu.ordenacaoNumeros.OrdenacaoNumeros",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoPessoas",
             "request": "launch",
             "mainClass": "edu.ordenacaoLista.OrdenacaoPessoas",
