@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "edu.cadastroProdutos.CadastroProdutos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.pesquisaSet.AgendaContatos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "edu.conjuntoConvidados.ConjuntoConvidados",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoNumeros",
             "request": "launch",
             "mainClass": "edu.ordenacaoNumeros.OrdenacaoNumeros",
