@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AgendaEventos",
+            "request": "launch",
+            "mainClass": "edu.agendaEvento.AgendaEventos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "EstoqueProdutos",
+            "request": "launch",
+            "mainClass": "edu.estoqueProdutosPreco.EstoqueProdutos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.agendaContatos.AgendaContatos",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "CadastroProdutos",
             "request": "launch",
             "mainClass": "edu.cadastroProdutos.CadastroProdutos",
