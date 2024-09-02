@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PredicateExemplo",
+            "request": "launch",
+            "mainClass": "edu.predicateExemplo.PredicateExemplo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExemplo",
+            "request": "launch",
+            "mainClass": "edu.functionExemplo.FunctionExemplo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "SupplierExemplo",
+            "request": "launch",
+            "mainClass": "edu.supplierExemplo.SupplierExemplo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExemplo",
+            "request": "launch",
+            "mainClass": "edu.comsumerExemplo.ConsumerExemplo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "AgendaEventos",
             "request": "launch",
             "mainClass": "edu.agendaEvento.AgendaEventos",
