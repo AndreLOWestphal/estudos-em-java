@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryOperatorExemplo",
+            "request": "launch",
+            "mainClass": "edu.binaryOperatorExemplo.BinaryOperatorExemplo",
+            "projectName": "MEU-PROJETO_da86eb18"
+        },
+        {
+            "type": "java",
             "name": "PredicateExemplo",
             "request": "launch",
             "mainClass": "edu.predicateExemplo.PredicateExemplo",
